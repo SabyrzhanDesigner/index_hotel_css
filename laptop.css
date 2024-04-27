@@ -1,0 +1,31 @@
+@media screen and (min-width: 1366px) {
+
+    .navbar {
+        display: flex;
+    }
+
+    .socials {
+        width: 100px;
+    }
+    
+    .socials__item {
+        width: 18px;
+    }
+
+    .main__img {
+        width: 100%;
+    }
+
+    .left_heading__bg {
+        width: 100%;
+    }
+
+    .left_heading__text h1 {
+        font-size: 200px;
+    }
+
+    .left_heading__text p {
+        font-size: 28px;
+        font-weight: 100;
+    }
+}
